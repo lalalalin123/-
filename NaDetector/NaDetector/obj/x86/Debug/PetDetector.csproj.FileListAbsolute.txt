@@ -1,0 +1,191 @@
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.PetCheck.resources
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+E:\软件资料\Na\宠物\PetDetector\PetDetector\bin\Debug\PetDetector.exe.config
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.AllPets.resources
+E:\软件资料\Na\宠物\PetDetector\PetDetector\bin\Debug\PetDetector.exe
+E:\软件资料\Na\宠物\PetDetector\PetDetector\bin\Debug\PetDetector.pdb
+E:\软件资料\Na\宠物\PetDetector\PetDetector\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\软件资料\Na\宠物\PetDetector\PetDetector\bin\Debug\office.dll
+E:\软件资料\Na\宠物\PetDetector\PetDetector\bin\Debug\Microsoft.Office.Interop.Word.xml
+E:\软件资料\Na\宠物\PetDetector\PetDetector\bin\Debug\office.xml
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.exe
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.pdb
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+E:\软件资料\Na\宠物\PetDetector\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+E:\临时文件\PetDetector\PetDetector\bin\Debug\PetDetector.exe.config
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.exe
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.pdb
+E:\临时文件\PetDetector\PetDetector\bin\Debug\PetDetector.exe
+E:\临时文件\PetDetector\PetDetector\bin\Debug\PetDetector.pdb
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.AllPets.resources
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.PetCheck.resources
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+E:\临时文件\PetDetector\PetDetector\bin\Debug\stdole.dll
+E:\临时文件\PetDetector\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+E:\Na离子\PetDetector\PetDetector\bin\Debug\PetDetector.exe.config
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.exe
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.pdb
+E:\Na离子\PetDetector\PetDetector\bin\Debug\PetDetector.exe
+E:\Na离子\PetDetector\PetDetector\bin\Debug\PetDetector.pdb
+E:\Na离子\PetDetector\PetDetector\bin\Debug\stdole.dll
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.AllPets.resources
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.PetCheck.resources
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+E:\Na离子\PetDetector\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+E:\Na离子\PetDetector 2018-04-23\PetDetector\bin\Debug\PetDetector.exe.config
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-23\PetDetector\bin\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-23\PetDetector\bin\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-23\PetDetector\bin\Debug\stdole.dll
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.AllPets.resources
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.PetCheck.resources
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+E:\Na离子\PetDetector 2018-04-23\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+E:\Na离子\PetDetector 2018-04-24\PetDetector\bin\Debug\PetDetector.exe.config
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-24\PetDetector\bin\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-24\PetDetector\bin\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-24\PetDetector\bin\Debug\stdole.dll
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.AllPets.resources
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.PetCheck.resources
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+E:\Na离子\PetDetector 2018-04-24\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+E:\Na离子\PetDetector 2018-04-25\PetDetector\bin\Debug\PetDetector.exe.config
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-25\PetDetector\bin\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-25\PetDetector\bin\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-25\PetDetector\bin\Debug\stdole.dll
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.AllPets.resources
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.PetCheck.resources
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+E:\Na离子\PetDetector 2018-04-25\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+E:\Na离子\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+E:\Na离子\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+E:\Na离子\PetDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPets.resources
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PetCheck.resources
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+E:\Na离子\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\实验室文件\NA离子检测\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\NA离子-宠物检测\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.ChangePassword.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.LoginForm.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测1.0\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.2\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.3\PetDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\PetDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.pdb

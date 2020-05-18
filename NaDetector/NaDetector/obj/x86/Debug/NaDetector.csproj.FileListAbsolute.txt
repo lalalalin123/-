@@ -1,0 +1,160 @@
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\PetDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2018-04-26\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\Spire.License.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\Spire.Pdf.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\Microsoft.mshtml.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\Spire.License.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-5\NaDetector\bin\Debug\Spire.Pdf.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-15\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-16\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-19\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-21 分割线\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-4-28 分割线\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-1 分割线+查询界面\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-8\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\bin\Debug\NaDetector.exe.config
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\obj\x86\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\obj\x86\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\bin\Debug\NaDetector.exe
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\bin\Debug\NaDetector.pdb
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\bin\Debug\MySql.Data.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\bin\Debug\stdole.dll
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\bin\Debug\MySql.Data.xml
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\obj\x86\Debug\NaDetector.csprojResolveAssemblyReference.cache
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\obj\x86\Debug\PetDetector.AllPatients.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\obj\x86\Debug\PetDetector.PatientCheck.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\obj\x86\Debug\NaDetector.Properties.Resources.resources
+C:\Users\纪丁琳\Desktop\钠离子检测\钠离子检测1.4\NaDetector 2020-5-15\NaDetector\obj\x86\Debug\NaDetector.csproj.GenerateResource.Cache
